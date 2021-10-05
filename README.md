@@ -17,6 +17,8 @@ A partir da branch Main, crie uma branch chamada ``primeiro_fato``. Copie e cole
 ## Primeiro fato sobre <André Silva>
 
 Trabalho com suporte em informática em um hospital em Natal/rn;
+
+Sou casado e tenho dois filhos (9 e 11 anos).
 ```
 
 Faça um ``commit`` e um ``push``. Volte para a branch ``master`` e repita o processo com uma branch ``segundo_fato`` e ``terceiro_fato``. Lembre-se de editar todos os dados possíveis de acordo com suas informações.
