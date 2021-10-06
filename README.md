@@ -14,7 +14,7 @@ A partir da branch Main, crie uma branch chamada ``primeiro_fato``. Copie e cole
 ```markdown
 # Entrega: Resolvendo Conflitos.
 
-## Primeiro fato sobre <seu nome>
+## Primeiro fato sobre <André Silva>
 
 Algum fato do primeiro DEV;
 ```
